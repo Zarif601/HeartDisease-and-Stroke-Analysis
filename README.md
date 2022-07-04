@@ -1,9 +1,3 @@
-# Topic: 
-Predicting whether or not a future patient will have a stroke or not - using machine learning models - trained on data (Clean up later)
-
-## Why did we choose this topic: 
-(MAKE SOMETHING UP LATER) - raise awareness - prevelency
-
 # Technologies Used
 
 ## Data Cleaning and Analysis
@@ -12,4 +6,7 @@ In this project, we aim to explore and analyze the "stroke_data" dataset. The da
 ## Database Storage
 Using the Python library SQLAlchemy, we will connect our notebooks to PostgreSQL (our method of database storage). To display our data, we will be using github pages.
 
-
+## Machine Learning
+Using the ML library SciKitLearn, we will be training and testing our model to predict whether a patient will have a stroke based on other attributes. Using various of supervised learning algorithms, we aim to achieve two things:
+- Our goal is to have our model accurately assign test data to their actual class. In this case, we hope our model to predict correctly whether the entry has had a stroke or not
+- We also strive for our model to understand the relationship between the dependent and independent variables. In this case, we seek to see the relationship between the different characteristics in a person and their chance of stroke

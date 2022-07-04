@@ -10,3 +10,6 @@ Using the Python library SQLAlchemy, we will connect our notebooks to PostgreSQL
 Using the ML library SciKitLearn, we will be training and testing our model to predict whether a patient will have a stroke based on other attributes. Using various of supervised learning algorithms, we aim to achieve two things:
 - Our goal is to have our model accurately assign test data to their actual class. In this case, we hope our model to predict correctly whether the entry has had a stroke or not
 - We also strive for our model to understand the relationship between the dependent and independent variables. In this case, we seek to see the relationship between the different characteristics in a person and their chance of stroke
+
+## Dashboard
+Using Github pages, we will  integrate D3.js for a fully functional and interactive dashboard to display the conclusions of our anaylsis. We will incorporate Tableau to aid with our visualizations of the data.

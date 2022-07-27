@@ -1,2 +1,0 @@
-Look at sect ion 12.2 for how to preprocess/filter data when creating plotly graphs
-We will need to be able to pull our data from the database first in js to do this

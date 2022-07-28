@@ -16,3 +16,4 @@ Using the ML library SciKitLearn, we will be training and testing our model to p
 
 ## Dashboard
 Using Github pages, we will  integrate D3.js for a fully functional and interactive dashboard to display the conclusions of our anaylsis. We will incorporate Tableau to aid with our visualizations of the data. 
+

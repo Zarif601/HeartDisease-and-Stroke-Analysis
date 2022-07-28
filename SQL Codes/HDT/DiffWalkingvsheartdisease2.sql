@@ -2,4 +2,4 @@ SELECT
 	diffwalking, 
 	heartdisease 
 FROM hdt
-WHERE diffwalking = 0
+WHERE diffwalking = '0'

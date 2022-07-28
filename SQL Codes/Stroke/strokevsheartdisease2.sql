@@ -1,4 +1,5 @@
 SELECT 
-	age, 
+	stroke, 
 	heartdisease 
-FROM stroke = 0
+FROM stroke 
+WHERE stroke = '0'

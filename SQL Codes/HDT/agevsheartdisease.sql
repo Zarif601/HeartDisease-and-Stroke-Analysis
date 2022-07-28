@@ -1,4 +1,4 @@
 SELECT 
-	age, 
+	agecategory, 
 	heartdisease 
 FROM hdt

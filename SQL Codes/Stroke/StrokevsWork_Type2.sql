@@ -1,5 +1,5 @@
 SELECT 
 	stroke, 
 	work_type 
-FROM hdt
-where stroke = 0
+FROM stroke
+WHERE stroke = '0'

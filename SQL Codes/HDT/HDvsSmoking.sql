@@ -1,4 +1,5 @@
 SELECT 
-	sex, 
+	smoking, 
 	heartdisease 
 FROM hdt
+x

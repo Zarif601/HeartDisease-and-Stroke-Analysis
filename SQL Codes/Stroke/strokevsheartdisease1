@@ -1,4 +1,4 @@
 SELECT 
-	sex, 
+	age, 
 	heartdisease 
-FROM hdt
+FROM stroke = 1

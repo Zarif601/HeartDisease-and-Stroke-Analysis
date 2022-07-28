@@ -1,7 +1,7 @@
 # Topic and Reasoning
 The research question our group explores two datasets: one looks at stroke data to see if we can acurately predict whether a person will have a stroke based on the preexisting conditions, and the other investigates heart disease data to do the same. We chose this topic because strokes and heart diseases are very relevant in the medical field which garnishes lots of attention. Many people around the world are affected by these often fatal diseases and the rates of these diseases appearing amongst people have been steadily increasing for the past few decades. <br><br>
 
-# Source of Data
+## Source of Data
 We collected both the datasets from Kaggle. Kaggle is an online community platform of machine learning engineers and data scientists and is rich with many relevant datasets from various different fields.
 
 # Goal

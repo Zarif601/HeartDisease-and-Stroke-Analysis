@@ -31,3 +31,6 @@ Using the Python library SQLAlchemy, we made connections of our notebooks to Pos
 
 # Dashboard
 Using Github pages, we have integrated D3.js with HTML and CSS and built a fully functional and interactive dashboard to display the conclusions of our anaylsis.
+
+# Link to Dashboard
+https://zarif601.github.io/Final-Project-Camp/

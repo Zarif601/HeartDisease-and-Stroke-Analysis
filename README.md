@@ -5,7 +5,7 @@ The research question our group explores two datasets: one looks at stroke data 
 We collected both the datasets from Kaggle. Kaggle is an online community platform of machine learning engineers and data scientists and is rich with many relevant datasets from various different fields.
 
 # Goal
-Our goal is to ultimately create machine learning models for both the stroke and heart disease datasets so that we can predict future stroke or heart disease based on information collected in the same format respectively. We also want to analyze general trends and patterns of different features in our dataset and how they affect the development of strokes and heart diseases in people.
+Our goal is to ultimately analyze general trends and patterns of different features in our dataset and how they affect the development of strokes and heart diseases in people. We also want to create machine learning models for both the stroke and heart disease datasets so that we can predict future stroke or heart disease based on information collected in the same format respectively.
 
 # Technologies Used <br>
 We are using Python and Jupyter Notebooks for generating our visualizations and making machine learning models. Our dashboard is powered by HTML/CSS and Javascript. We are using Github Pages to display the dashboard and keep it running.

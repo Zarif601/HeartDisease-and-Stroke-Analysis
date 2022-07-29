@@ -1651,7 +1651,7 @@ select {
   font-size: 850%;
   font-weight: 700;
   text-align: center;
-  bottom: 50px;
+  bottom: -50px;
   color: #ffffff;
 }
 
@@ -1660,6 +1660,20 @@ select {
   text-align: center;
   font-weight: 700;
   font-size: 250%;
+  top: 140px;
+  color: #ffffff;
+}
+
+.table{
+  text-align: center;
+  font-weight: 200;
+  font-size: 175%;
   top: 40px;
   color: #ffffff;
+}
+
+.names{
+  bottom: 50px;
+  font-weight: 600;
+  font-size: 150%;
 }

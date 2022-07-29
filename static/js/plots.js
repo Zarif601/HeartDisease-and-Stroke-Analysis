@@ -10,7 +10,7 @@ function init() {
         3: "STROKE VS HYPERTENSION",
         4: "STROKE VS WORK TYPE",
         5: "STROKE VS SMOKING STATUS",
-        6: "AGE VS HEART DISEASE (STROKE DATASET)"
+        6: "HEART DISEASE VS AGE"
     };
 
     List_of_options_2 = {
@@ -20,7 +20,7 @@ function init() {
         4: "HEART DISEASE VS GENDER",
         5: "HEART DISEASE VS SMOKING",
         6: "HEART DISEASE VS ALCOHOL DRINKING",
-        7: "AGE VS HEART DISEASE (HEART DISEASE DATASET)"
+        7: "HEART DISEASE VS AGE"
     };
 
     
@@ -70,13 +70,13 @@ list_explanations = [
     'Proportionally, people who are married seem to have slightly more chance of having strokes according to this graph. The graph does looks a little imbalanced since the amount of people who have not had strokes are much more than those who have had them.',
     'Proportionally, it looks like those who have hypertension has a higher chance of having strokes',
     'This graph shows us that people working in private jobs have a higher propensity of having strokes',
-    'In this graph, we can see that proportionally.........',
+    'Proportionally people who smoke formerly and current smokers have a slightly higher chance of having a stroke',
     'We can see as people get older, their chances of having a stroke increases according to this graph'
 ]
 
 // list of explanations for each graphs
 list_explanations_2 = [
-    'From the graph we can see that proportionally, people who have had a stroke has more of a chance of developing heart diseases',
+    'From the graph we can see that proportionally, people who have had a stroke have more of a chance of developing heart diseases',
     'From this graph we can tell that people who have excellent general health condition as less likely to develop heart diseases. However, a large number of people who have good health report having heart disease and it is spread very uniformly for all other categories',
     'Those who have difficulty walking also show a higher chance of having heart disease, shown by the graph',
     'According to this graph, males have a higher chance to develop heart diseases than females',
